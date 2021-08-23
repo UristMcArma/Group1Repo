@@ -1,3 +1,2 @@
-# met-python-project
-
-* first bullet
+# Group1Repo
+Hello my name is Bronagh
